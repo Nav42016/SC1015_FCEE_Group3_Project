@@ -20,10 +20,10 @@ In recent years, climate change has become a pressing issue, with vehicle emissi
 - Machine Learning Models
 
 ## Machine Learning Models Used
-- GBM Model
-- SVM Model
+- Gradient Boosting Machine Model
+- Supervised Machine Learning Model
 - Logistic Regression Model
-- Neural network
+- Neural Network
 
 ## Conclusions
 We can understand the important factors that affect the amount of co2 emissions based on the dataset using different machine learning models.
