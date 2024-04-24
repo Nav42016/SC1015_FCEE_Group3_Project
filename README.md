@@ -42,11 +42,8 @@ This can help in reducing carbon footprint in the following ways:
 - The GBM predicted the range of Co2 that was emitted by vehicles for each predictor variable
 - The Neural Network gave a brief understanding of how the predicted and actual Co2 emissions varied but had a lower predicting accuracy
 
-## Future Improvements
-- 
-
 ## Data Source
 - https://www.kaggle.com/datasets/sahirmaharajj/fuel-economy
 
 ## References
--
+- 
